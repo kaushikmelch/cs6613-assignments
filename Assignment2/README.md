@@ -11,5 +11,8 @@ Assignment 2
 The code is a runnable python notebook. It can be run normally to reproduce the output saved in the cells.
 Comments have been provided in the notebooks to navigate.
 
-video_search.ipynd -> Main File
-COCODataProcessing.ipynb -> Helper file
+1) video_search.ipynd -> Main File
+
+
+
+2) COCODatasetProcessing.ipynb -> Helper file

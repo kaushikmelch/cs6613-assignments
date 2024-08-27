@@ -1,3 +1,3 @@
-# cs6613-assignments (Aritifical Intelligence)
+# cs6613-assignments (Aritificial Intelligence)
 
-## This repository contains the assignments for the AI course cs6613
+This repository contains the assignments for the AI course cs6613
